@@ -23,7 +23,9 @@ Purpose of this document is to provide the step wise approach to setup MOTECH Pl
     For more detail for installing the OpenXCDataInterface Module in [OpenXCDataInterface Developer Reference Document][]
   
   4. mHealthApp Setup – 
-
+    This is an Android Application that implement the usecases to consume the webservices APIs exposed by [mHealthDataInterface][], [OpenXCDataInterface][] moduels.
+    For more detail about features of mHealth App, follow [Feature Set][] Document.
+    For Installable Binary APK and Source code please refer to [mHealthApp][] 
 
 [Motech_Platform_Server_Setup_Guide.docx]:https://github.com/hclvipin/mHealthDataInterface/blob/master/docs/Motech_Platform_Server_Setup_Guide.docx
 [mHealthDataInterface]:https://github.com/hclvipin/mHealthDataInterface
@@ -31,3 +33,4 @@ Purpose of this document is to provide the step wise approach to setup MOTECH Pl
 [mHealthApp]:https://github.com/hclvipin/mHealth-App
 [mHealthDataInterface Developer Reference Document]:https://github.com/hclvipin/mHealthDataInterface/blob/master/docs/MOTECH_mHealthDataInterface_Developer_Reference_v2.docx
 [OpenXCDataInterface Developer Reference Document]:https://github.com/hclvipin/OpenXCDataInterface/blob/master/docs/MOTECH_OpenXCDataInterface_Developer%20Reference.docx
+[Feature Set]:docs/Ford_mHealth_Feature_Set.docx
