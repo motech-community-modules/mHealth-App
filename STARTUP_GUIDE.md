@@ -20,7 +20,7 @@ Purpose of this document is to provide the step wise approach to setup MOTECH Pl
   4.	mHealthApp Setup – 
 
 
-[Motech_Platform_Server_Setup_Guide.docx]:docs/Motech_Platform_Server_Setup_Guide.docx
+[Motech_Platform_Server_Setup_Guide.docx]:https://github.com/hclvipin/mHealthDataInterface/blob/master/docs/Motech_Platform_Server_Setup_Guide.docx
 [mHealthDataInterface]:https://github.com/hclvipin/mHealthDataInterface
 [OpenXCDataInterface]:https://github.com/hclvipin/OpenXCDataInterface
 [mHealthApp]:https://github.com/hclvipin/mHealth-App
