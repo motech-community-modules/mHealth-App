@@ -10,6 +10,7 @@ Purpose of this document is to provide the step wise approach to setup MOTECH Pl
 #####Steps to setup the complete solution :
 
   1. MOTECH Platform Server Setup – 
+  
     This is the very first step. Developers who want to make development on top of MOTECH platform, first need to set up the whole development environment for MOTECH. 
     For setting up the MOTECH Platform, use the instructions mentioned in [Motech_Platform_Server_Setup_Guide.docx][]
   
