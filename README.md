@@ -9,4 +9,4 @@ For more detail about features of mHealth App, follow [Feature Set][] Document.
 
 [mHealthDataInterface]:https://github.com/hclvipin/mHealthDataInterface
 [OpenXCDataInterface]:https://github.com/hclvipin/OpenXCDataInterface
-[Feature Set]:docs/Ford_mHealth_Feature_Set.docx
+[Feature Set]:docs/mHealth_Feature_Set.docx
