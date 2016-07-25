@@ -1,4 +1,7 @@
 # mHealth App
+Version: 0.1 
+This is the initial release.
+
 This is a mobile application based on Android platform, which will talk to back-end services of the following modules 
   1. [mHealthDataInterface][]
   2. [OpenXCDataInterface][]
