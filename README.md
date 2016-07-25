@@ -9,6 +9,12 @@ These two modules are developed as being part of MOTECH framework and demonstrat
 
 For more detail about features of mHealth App, follow [Feature Set][] Document.
 
+## License
+
+Copyright (c) 2016 Ford Motor Company
+Licensed under the BSD license.
+
+
 [mHealthDataInterface]:../../../mHealthDataInterface
 [OpenXCDataInterface]:../../../OpenXCDataInterface
 [Feature Set]:docs/mHealth_Feature_Set.docx
