@@ -1,4 +1,6 @@
 # mHealth App
+Version: 1.0.0 
+
 This is a mobile application based on Android platform, which will talk to back-end services of the following modules 
   1. [mHealthDataInterface][]
   2. [OpenXCDataInterface][]
@@ -7,6 +9,12 @@ These two modules are developed as being part of MOTECH framework and demonstrat
 
 For more detail about features of mHealth App, follow [Feature Set][] Document.
 
-[mHealthDataInterface]:https://github.com/hclvipin/mHealthDataInterface
-[OpenXCDataInterface]:https://github.com/hclvipin/OpenXCDataInterface
+## License
+
+Copyright (c) 2016 Ford Motor Company
+Licensed under the BSD license.
+
+
+[mHealthDataInterface]:../../../mHealthDataInterface
+[OpenXCDataInterface]:../../../OpenXCDataInterface
 [Feature Set]:docs/mHealth_Feature_Set.docx
